@@ -22,4 +22,4 @@ output <- mFIV10CFS(data = data)
 R >= 3.6
 
 # Papers
-Chien-Chou Su, Yu-Tai Lo, Yi-Ching Yang, Yu-Huai Yu, Wei-Chun Cheng, Wen-Ping Lin, **Deng-Chi Yang**. *Validation of multimorbidity frailty index-v10 in older adults from outpatient and inpatient settings* (2024, manuscript)
+Chien-Chou Su, Yu-Tai Lo, Yi-Ching Yang, Yu-Huai Yu, Wei-Chun Cheng, Wen-Ping Lin, **Deng-Chi Yang**. *Validation of multimorbidity frailty index-v10 in older adults from outpatient and inpatient settings*. (submission)
